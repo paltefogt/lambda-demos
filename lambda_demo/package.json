@@ -1,0 +1,24 @@
+{
+  "name": "lambda_knetikcloud_util_batch",
+  "version": "1.0.0",
+  "description": "for lambda function lambda_knetikcloud_util_batch",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paul altefogt",
+  "license": "ISC",
+  "dependencies": {
+    "auto-load": "^3.0.0",
+    "aws-sdk": "^2.333.0",
+    "fs-extra": "^0.30.0",
+    "get-value": "^3.0.1",
+    "lodash": "^4.17.10",
+    "moment": "^2.12.0",
+    "nanoid": "^1.2.0",
+    "q": "^1.5.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "set-value": "^3.0.0"
+  }
+}
